@@ -29,12 +29,12 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
 
 </td>
 <td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu-sharma&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight" />
 
 </td>
 </tr>
@@ -50,11 +50,7 @@
 
 ## 💻 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu-sharma&layout=compact&theme=tokyonight" />
-
----
-
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-himanshu-sharma&layout=compact&theme=tokyonight" />
 
 ---
 
@@ -64,8 +60,7 @@
 ---
 
 ## 🤝 Connect with me
-- LinkedIn: add your link
-- Email: your-email@gmail.com
+- Email: hs764664@gmail.com
 
 ---
 

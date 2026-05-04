@@ -5,17 +5,67 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student (Final Year)
-- 💻 I build full-stack web applications
-- 🌱 Currently learning Backend & System Design
+- 💻 Building full-stack web applications
+- 🌱 Learning Backend & System Design
 - 📫 Reach me: your-email@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Frontend: React, HTML, CSS, Tailwind
-- ⚙️ Backend: Node.js, Express.js
-- 🗄️ Database: MongoDB
-- 🔧 Tools: Git, Postman
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-yellow"/>
+  <img src="https://img.shields.io/badge/HTML-orange"/>
+  <img src="https://img.shields.io/badge/CSS-blue"/>
+  <img src="https://img.shields.io/badge/React-blue"/>
+  <img src="https://img.shields.io/badge/Node.js-green"/>
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen"/>
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu-sharma&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-himanshu-sharma&theme=react-dark" />
+
+---
+
+## 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu-sharma&layout=compact&theme=tokyonight" />
+
+---
+
+
+
+---
+
+## 🌐 Portfolio
+👉 https://checkmygit.com/dev-himanshu-sharma
+
+---
+
+## 🤝 Connect with me
+- LinkedIn: add your link
+- Email: your-email@gmail.com
 
 ---
 

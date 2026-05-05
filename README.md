@@ -121,6 +121,8 @@ Git • Postman • VS Code
 </tr>
 </table>
 
+---
+
 ## 💎 Engineering Overview
 
 <p align="center">
@@ -129,10 +131,10 @@ Git • Postman • VS Code
 
 <p align="center">
   <a href="https://github.com/dev-himanshu-sharma">
-    
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=cfc9c2&bg_color=1a1b26" height="185" alt="Stats" />
   </a>
   <a href="https://github.com/dev-himanshu-sharma">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu-sharma&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=cfc9c2&bg_color=1a1b26" he
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu-sharma&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=cfc9c2&bg_color=1a1b26" height="185" alt="Languages" />
   </a>
 </p>
 
@@ -143,6 +145,8 @@ Git • Postman • VS Code
 </p>
 
 <br/>
+
+---
 
 ## 🛠 Evolution & Contributions
 

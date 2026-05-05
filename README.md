@@ -10,38 +10,33 @@
 
 ## 🌟 About Me
 
-<p align="center">
+<table align="center">
+<tr>
+<td width="700" align="center">
 
-<img src="https://img.shields.io/badge/About%20Me-111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-111?style=for-the-badge"/>
 
-</p>
+<br/><br/>
 
-<br/>
-
-<p align="center">
 💻 Building real-world full-stack applications <br/>
 🚀 Currently developing a <b>Resume Ranking System</b> <br/>
 🌱 Exploring <b>Backend Engineering</b> & <b>System Design</b> <br/>
-📫 <b>Email:</b> hs764664@gmail.com
-</p>
+📫 <b>Email:</b> [hs764664@gmail.com](mailto:hs764664@gmail.com)
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN-000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-000?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/MERN-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-000?style=for-the-badge"/>
 
-<br/>
+<br/><br/>
 
-<p align="center">
-  <i>"Turning ideas into scalable systems."</i>
-</p>
+<i>"Turning ideas into scalable systems."</i>
 
+</td>
+</tr>
+</table>
 
-
----
 ## 🛠️ Tech Stack
 
 <table align="center">
@@ -129,16 +124,34 @@ Git • Postman • VS Code
 
 ## 📊 GitHub Dashboard
 
-<table>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Analytics-111?style=for-the-badge&logo=github" />
+</p>
+
+<br/>
+
+<table align="center">
 <tr>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
+<td align="center" width="400">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+
 </td>
-<td>
-<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight" />
+
+<td align="center" width="400">
+
+<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight&hide_border=true" width="100%"/>
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Consistency%20%7C%20Growth%20%7C%20Code-000?style=for-the-badge" />
+</p>
+
 
 ---
 

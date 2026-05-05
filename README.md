@@ -124,47 +124,20 @@ Git • Postman • VS Code
 ---
 
 
-## 💎 Engineering Overview
+## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/dev-himanshu-sharma">
-    
-  </a>
-  <a href="https://github.com/dev-himanshu-sharma">
-    
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dev-himanshu-sharma">
-    <img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=7aa2f7" width="100%" alt="Streak Stats" />
-  </a>
-</p>
-
-<br/>
-
----
-
-## 💎 Engineering Overview
-
-<p align="center">
-  <b>Consistency. Systems. Growth.</b>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight&hide_border=true&background=1a1b26" width="80%" />
-</p>
-
-<br/>
-
----
-
+--- make it more premium
 ## 🛠 Evolution & Contributions
 
 <p align="center">

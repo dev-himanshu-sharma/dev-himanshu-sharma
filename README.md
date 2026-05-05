@@ -1,202 +1,154 @@
-<!-- HERO SECTION -->
-<div align="center">
+<!-- ================= GTA HUD STYLE README ================= -->
 
-<h1 style="font-size:38px; font-weight:700;">
-  Himanshu Sharma
+<h1 align="center" style="color:#00ff88; text-shadow:0 0 12px #00ff88;">
+🚔 PLAYER PROFILE: HIMANSHU SHARMA
 </h1>
 
-<p style="color:#6b7280; font-size:16px;">
-  A Full Stack Engineer building scalable digital products
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF88&center=true&vCenter=true&lines=FULL+STACK+OPERATIVE;MERN+SYSTEM+ENGINEER;MISSION+BASED+DEVELOPER;BUILDING+REAL+WORLD+SYSTEMS" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=0A84FF&center=true&vCenter=true&lines=Engineered+for+Scale;Designed+for+Performance;Built+with+Clean+Architecture" />
+---
+
+## 🧾 📡 HUD STATUS
+
+<div align="center">
+STATUS: ONLINE 🟢
+ROLE: Full Stack Operative
+ZONE: DEV SERVER (REAL WORLD SIMULATION)
+WANTED LEVEL: ★☆☆☆☆ (Clean Code Citizen)
+HEALTH: ████████████ 100%
+FOCUS: ██████████░░ 85%
+XP: ███████████░ 92%
+
+
 
 </div>
 
 ---
 
-<!-- SECTION 1 -->
-## 🍎 Built Like a Product, Not Just Code
+## 🗺️ 🎮 LOADOUT (TECH WEAPONS)
 
-<div style="
-  max-width:900px;
-  margin:auto;
-  padding:30px;
-  border-radius:18px;
-  background:#0b0b0f;
-  border:1px solid rgba(255,255,255,0.08);
-  color:#d1d5db;
-  line-height:1.8;
-">
+<div align="center">
 
-I don’t just build applications —  
-I design **systems that behave like products**.
-
-✔ Scalable backend architecture  
-✔ Clean and predictable APIs  
-✔ Performance-first mindset  
-✔ Real-world usability focus  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,vscode" />
 
 </div>
 
 ---
 
-## ⚙️ Performance-Driven Engineering
+## 🎯 🚨 ACTIVE MISSION
 
 <div style="
   max-width:900px;
   margin:40px auto;
-  padding:30px;
-  border-radius:18px;
-  background:#0b0b0f;
-  border:1px solid rgba(255,255,255,0.08);
-">
-
-### ⚡ Backend Core
-Node.js • Express • REST APIs • JWT Auth  
-
-### 🧠 Data Layer
-MongoDB • MySQL • Schema Design  
-
-### 🎨 UI Layer
-React • Component Architecture • UX Flow  
-
-</div>
-
----
-
-## 🚀 Feature Set (Like a MacBook Spec Sheet)
-
-<div style="
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
-  gap:12px;
-  margin-top:20px;
-">
-
-<div style="
-  width:260px;
-  padding:20px;
-  border-radius:14px;
-  background:#0b0b0f;
-  border:1px solid rgba(255,255,255,0.08);
-">
-<b>⚡ Real-time Systems</b><br/>
-Socket.io powered communication
-</div>
-
-<div style="
-  width:260px;
-  padding:20px;
-  border-radius:14px;
-  background:#0b0b0f;
-  border:1px solid rgba(255,255,255,0.08);
-">
-<b>🔐 Secure Auth</b><br/>
-JWT + Cookie-based security
-</div>
-
-<div style="
-  width:260px;
-  padding:20px;
-  border-radius:14px;
-  background:#0b0b0f;
-  border:1px solid rgba(255,255,255,0.08);
-">
-<b>📦 Scalable Backend</b><br/>
-Modular architecture design
-</div>
-
-</div>
-
----
-
-## 💬 Featured Product Experience
-
-<div style="
-  max-width:900px;
-  margin:50px auto;
-  padding:30px;
-  border-radius:18px;
-  background:#0b0b0f;
-  border:1px solid rgba(255,255,255,0.08);
+  padding:25px;
+  border-radius:15px;
+  background:rgba(0,255,136,0.05);
+  border:1px solid #00ff88;
+  box-shadow:0 0 25px #00ff88;
   text-align:center;
+  color:white;
 ">
 
-### 💬 MERN Chat System
+### 💬 MISSION: REAL-TIME CHAT SYSTEM
 
 <img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg" width="650" style="border-radius:12px;"/>
 
 <br/><br/>
 
-A **real-time communication system** built for scale and responsiveness.
-
-✔ Instant messaging  
-✔ Multi-user rooms  
-✔ Secure authentication  
-✔ Clean backend structure  
+🎯 OBJECTIVE: Build secure communication system  
+⚡ STATUS: CORE ENGINE DEPLOYED  
+👥 MODE: MULTIPLAYER ENABLED  
+🧠 DIFFICULTY: HARD MODE  
 
 </div>
 
 ---
 
-## 🧠 Engineering Philosophy (Apple-style thinking)
+## 🔫 ⚔️ SKILL SYSTEM
 
 <div style="
   max-width:900px;
   margin:auto;
-  padding:30px;
-  border-radius:18px;
-  background:#0b0b0f;
-  border:1px solid rgba(255,255,255,0.08);
-  color:#9ca3af;
-  line-height:1.8;
+  padding:25px;
+  border-radius:15px;
+  background:rgba(255,0,128,0.05);
+  border:1px solid #ff0077;
+  box-shadow:0 0 25px #ff0077;
+  color:white;
 ">
 
-> “A system should feel simple even if it is complex inside.”
+### 🧠 COMBAT SKILLS (DEV POWERS)
 
-✔ Simplicity is a feature  
-✔ Maintainability > shortcuts  
-✔ Scalability is designed, not added later  
-✔ Clean code is product quality  
+✔ JavaScript Precision Shooting  
+✔ React UI Combat  
+✔ Node.js Backend Control  
+✔ API Accuracy Sniping  
+
+<br/>
+
+### 🛡️ DEFENSE SYSTEM
+
+✔ JWT Armor System  
+✔ Secure Authentication Shield  
+✔ Error Handling Firewall  
+✔ Scalable Architecture Defense  
 
 </div>
 
 ---
 
-## 📊 Performance Metrics
+## 🏆 🏅 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dev-himanshu-sharma&theme=github-dark&hide_border=true" />
+🏅 Real-time Chat System Built  
+🏅 Scalable Backend Architect  
+🏅 Secure Authentication System  
+🏅 API Design Mastery  
+🏅 Full Stack Deployment Success  
 
 </div>
 
 ---
 
-## 🌐 Final CTA (Apple-style closing)
+## 📊 📡 PLAYER PERFORMANCE
 
-<div align="center" style="
-  margin-top:40px;
-  padding:25px;
-  border-radius:18px;
-  background:#0b0b0f;
-  border:1px solid rgba(255,255,255,0.08);
-">
+<div align="center">
 
-### Let’s Build Something Scalable.
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📡 📞 RADIO CONTACT
+
+<div align="center">
 
 <a href="mailto:hs764664@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-0A84FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RADIO%20EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://github.com/dev-himanshu-sharma">
+  <img src="https://img.shields.io/badge/GITHUB%20HQ-ff0077?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-<p align="center" style="color:#6b7280; margin-top:30px;">
-Designed like a product • Engineered like a system • Built like Apple
+## 🚨 ⚡ FINAL HUD MESSAGE
+
+<p align="center" style="color:#00ff88; font-size:16px;">
+“Stay stealth. Code clean. Upgrade constantly.”  
+<br/>
+⚡ MISSION CONTINUES...
 </p>
+
+<!-- ================= END ================= -->

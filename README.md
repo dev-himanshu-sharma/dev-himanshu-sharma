@@ -10,12 +10,10 @@
 
 ## 🌟 About Me
 
-<table align="center">
-<tr>
-<td width="700">
-
 <p align="center">
-  <b>Full Stack Developer focused on building scalable and production-ready web applications.</b>
+
+<img src="https://img.shields.io/badge/About%20Me-111?style=for-the-badge" />
+
 </p>
 
 <br/>
@@ -30,12 +28,17 @@
 <br/>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-000?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<p align="center">
   <i>"Turning ideas into scalable systems."</i>
 </p>
 
-</td>
-</tr>
-</table>
 
 
 ---

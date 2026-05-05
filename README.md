@@ -1,33 +1,53 @@
-<!-- ================= GTA HUD STYLE README ================= -->
+<!-- ================= HERO ================= -->
 
-<h1 align="center" style="color:#00ff88; text-shadow:0 0 12px #00ff88;">
+<h1 align="center" style="
+  color:#00ff88;
+  text-shadow:0 0 10px #00ff88, 0 0 25px #00ff88;
+  font-size:36px;
+">
 🚔 PLAYER PROFILE: HIMANSHU SHARMA
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF88&center=true&vCenter=true&lines=FULL+STACK+OPERATIVE;MERN+SYSTEM+ENGINEER;MISSION+BASED+DEVELOPER;BUILDING+REAL+WORLD+SYSTEMS" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF88&center=true&vCenter=true&lines=FULL+STACK+OPERATIVE;SYSTEM+ARCHITECT;MERN+ENGINEER;HIGH+LEVEL+DEVELOPER" />
 </p>
 
 ---
 
-## 🧾 📡 HUD STATUS
+<!-- ================= MAIN HUD PANEL ================= -->
 
 <div align="center">
-STATUS: ONLINE 🟢
+
+<div style="
+  width:85%;
+  padding:35px;
+  border-radius:20px;
+  background: rgba(0, 255, 136, 0.06);
+  border:1px solid rgba(0,255,136,0.4);
+  box-shadow: 0 0 25px rgba(0,255,136,0.4),
+              inset 0 0 20px rgba(0,255,136,0.1);
+  backdrop-filter: blur(12px);
+  color:white;
+  text-align:center;
+">
+
+### 🧾 SYSTEM STATUS PANEL
+STATUS: 🟢 ONLINE (ACTIVE DEPLOYMENT MODE)
 ROLE: Full Stack Operative
-ZONE: DEV SERVER (REAL WORLD SIMULATION)
+RANK: ELITE DEVELOPER
 WANTED LEVEL: ★☆☆☆☆ (Clean Code Citizen)
-HEALTH: ████████████ 100%
-FOCUS: ██████████░░ 85%
-XP: ███████████░ 92%
+XP LEVEL: █████████████░ 92%
+HEALTH: ██████████████ 100%
+FOCUS: ████████████░ 88%
 
 
+</div>
 
 </div>
 
 ---
 
-## 🗺️ 🎮 LOADOUT (TECH WEAPONS)
+## 🗺️ 💎 TECH LOADOUT (WEAPON VAULT)
 
 <div align="center">
 
@@ -37,83 +57,90 @@ XP: ███████████░ 92%
 
 ---
 
-## 🎯 🚨 ACTIVE MISSION
-
-<div style="
-  max-width:900px;
-  margin:40px auto;
-  padding:25px;
-  border-radius:15px;
-  background:rgba(0,255,136,0.05);
-  border:1px solid #00ff88;
-  box-shadow:0 0 25px #00ff88;
-  text-align:center;
-  color:white;
-">
-
-### 💬 MISSION: REAL-TIME CHAT SYSTEM
-
-<img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg" width="650" style="border-radius:12px;"/>
-
-<br/><br/>
-
-🎯 OBJECTIVE: Build secure communication system  
-⚡ STATUS: CORE ENGINE DEPLOYED  
-👥 MODE: MULTIPLAYER ENABLED  
-🧠 DIFFICULTY: HARD MODE  
-
-</div>
-
----
-
-## 🔫 ⚔️ SKILL SYSTEM
-
-<div style="
-  max-width:900px;
-  margin:auto;
-  padding:25px;
-  border-radius:15px;
-  background:rgba(255,0,128,0.05);
-  border:1px solid #ff0077;
-  box-shadow:0 0 25px #ff0077;
-  color:white;
-">
-
-### 🧠 COMBAT SKILLS (DEV POWERS)
-
-✔ JavaScript Precision Shooting  
-✔ React UI Combat  
-✔ Node.js Backend Control  
-✔ API Accuracy Sniping  
-
-<br/>
-
-### 🛡️ DEFENSE SYSTEM
-
-✔ JWT Armor System  
-✔ Secure Authentication Shield  
-✔ Error Handling Firewall  
-✔ Scalable Architecture Defense  
-
-</div>
-
----
-
-## 🏆 🏅 ACHIEVEMENTS UNLOCKED
+## 🎯 🚨 ACTIVE MISSION BRIEFING
 
 <div align="center">
 
-🏅 Real-time Chat System Built  
-🏅 Scalable Backend Architect  
-🏅 Secure Authentication System  
-🏅 API Design Mastery  
-🏅 Full Stack Deployment Success  
+<div style="
+  width:85%;
+  margin-top:30px;
+  padding:30px;
+  border-radius:22px;
+  background: rgba(255, 0, 128, 0.06);
+  border:1px solid rgba(255,0,128,0.5);
+  box-shadow: 0 0 30px rgba(255,0,128,0.4);
+  backdrop-filter: blur(14px);
+  text-align:center;
+">
+
+### 💬 PRIMARY MISSION: REAL-TIME CHAT SYSTEM
+
+<img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg" width="700" style="border-radius:14px;"/>
+
+<br/><br/>
+
+🎯 OBJECTIVE: Secure scalable messaging system  
+⚡ ENGINE: MERN + Socket.io  
+👥 MODE: MULTIPLAYER REAL-TIME ENVIRONMENT  
+🧠 DIFFICULTY: HARD (PRODUCTION LEVEL)
+
+</div>
 
 </div>
 
 ---
 
-## 📊 📡 PLAYER PERFORMANCE
+## 🔫 ⚔️ SKILL MATRIX (RPG STYLE)
+
+<div align="center">
+
+<div style="
+  width:85%;
+  padding:30px;
+  border-radius:22px;
+  background: rgba(0,0,0,0.6);
+  border:1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 0 20px rgba(255,255,255,0.05);
+  color:#d1d5db;
+">
+
+### 🧠 CORE COMBAT SKILLS
+
+✔ JavaScript Precision Engineering  
+✔ React UI Combat Systems  
+✔ Node.js Backend Warfare  
+✔ API Sniper-Level Accuracy  
+
+<br/>
+
+### 🛡️ DEFENSIVE SYSTEMS
+
+✔ JWT Authentication Armor  
+✔ Secure Backend Firewall  
+✔ Error Handling Shield Matrix  
+✔ Scalable Architecture Layer  
+
+</div>
+
+</div>
+
+---
+
+## 🏆 💎 ACHIEVEMENTS (ELITE BADGES)
+
+<div align="center">
+
+🏅 Real-time Chat System Architect  
+🏅 Scalable Backend System Builder  
+🏅 Secure Authentication Specialist  
+🏅 API Design Expert  
+🏅 Full Stack Deployment Engineer  
+
+</div>
+
+---
+
+## 📊 📡 PERFORMANCE DASHBOARD
 
 <div align="center">
 
@@ -127,28 +154,31 @@ XP: ███████████░ 92%
 
 ---
 
-## 📡 📞 RADIO CONTACT
+## 📞 🌐 SECURE CONNECTION HUB
 
 <div align="center">
 
 <a href="mailto:hs764664@gmail.com">
-  <img src="https://img.shields.io/badge/RADIO%20EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://github.com/dev-himanshu-sharma">
-  <img src="https://img.shields.io/badge/GITHUB%20HQ-ff0077?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GITHUB-ff0077?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-## 🚨 ⚡ FINAL HUD MESSAGE
+## 🚨 ⚡ FINAL SYSTEM MESSAGE
 
-<p align="center" style="color:#00ff88; font-size:16px;">
-“Stay stealth. Code clean. Upgrade constantly.”  
+<p align="center" style="
+  color:#00ff88;
+  font-size:16px;
+  text-shadow:0 0 10px #00ff88;
+">
+“Elite systems are not built fast — they are built right.”  
 <br/>
-⚡ MISSION CONTINUES...
+⚡ STATUS: CONTINUOUS DEPLOYMENT ACTIVE
 </p>
 
-<!-- ================= END ================= -->

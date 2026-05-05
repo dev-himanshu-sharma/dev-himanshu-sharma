@@ -1,168 +1,171 @@
-<!-- CYBERPUNK HEADER -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <span style="color:#00f7ff;text-shadow:0 0 10px #00f7ff;">
-    SYSTEM ONLINE: HIMANSHU SHARMA
-  </span>
+<h1 align="center" style="font-weight:700; letter-spacing:1px;">
+  Himanshu Sharma
 </h1>
 
+<p align="center" style="color:#888;">
+  MERN Stack Developer • Full Stack Engineer • Final Year CSE Student
+</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CYBERPUNK+DEVELOPER;MERN+ARCHITECT;FULL+STACK+ENGINEER;BUILDING+SCALABLE+SYSTEMS" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0D6EFD&center=true&vCenter=true&lines=Building+Scalable+Web+Systems;Clean+Code+Advocate;Backend+Focused+Engineer" />
 </p>
 
 ---
 
-<!-- NEON GLASS PANEL -->
+## 🧭 Overview
+
 <div style="
-  margin:20px auto;
-  padding:25px;
-  width:90%;
-  border-radius:15px;
-  background: rgba(0, 255, 255, 0.05);
-  border: 1px solid rgba(0, 255, 255, 0.3);
-  box-shadow: 0 0 20px #00f7ff, 0 0 40px #ff00ff;
-  backdrop-filter: blur(12px);
-  text-align:center;
-  color:#ffffff;
+  max-width:900px;
+  margin:auto;
+  padding:20px;
+  border-radius:14px;
+  background:#0b0f19;
+  border:1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+  color:#d1d5db;
+  line-height:1.7;
 ">
 
-### 👾 ABOUT SYSTEM
-
-💻 Node: Full Stack Developer  
-🧠 Core: MERN Architecture  
-⚙️ Status: BUILDING REAL-WORLD SYSTEMS  
-🚀 Current Mission: Resume Ranking AI System  
-📡 Signal: ACTIVE  
+💻 I build **scalable full-stack applications** using the MERN stack  
+⚙️ Focused on **backend architecture, APIs, and system design**  
+🚀 Currently working on a **Resume Ranking System**  
+🧠 Interested in **distributed systems & backend engineering**
 
 <br/>
 
-<span style="color:#00f7ff;">"Code. Deploy. Dominate."</span>
+💬 Philosophy:  
+<em style="color:#9ca3af;">
+“Simplicity scales. Complexity fails.”
+</em>
 
 </div>
 
 ---
 
-## ⚙️ CYBER STACK MATRIX
+## ⚙️ Tech Stack
+
+<div align="center" style="margin-top:20px;">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,postman,vscode" />
+
+</div>
+
+---
+
+## 🧱 Engineering Focus
+
+<div style="
+  display:flex;
+  justify-content:center;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-top:20px;
+">
+
+<div style="
+  padding:16px;
+  width:240px;
+  border-radius:12px;
+  background:#0b0f19;
+  border:1px solid rgba(255,255,255,0.08);
+  color:#d1d5db;
+">
+<b>Frontend</b><br/>
+React • UI Systems • Performance
+</div>
+
+<div style="
+  padding:16px;
+  width:240px;
+  border-radius:12px;
+  background:#0b0f19;
+  border:1px solid rgba(255,255,255,0.08);
+  color:#d1d5db;
+">
+<b>Backend</b><br/>
+Node.js • Express • REST APIs
+</div>
+
+<div style="
+  padding:16px;
+  width:240px;
+  border-radius:12px;
+  background:#0b0f19;
+  border:1px solid rgba(255,255,255,0.08);
+  color:#d1d5db;
+">
+<b>Database</b><br/>
+MongoDB • MySQL • Data Modeling
+</div>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div style="
+  max-width:900px;
+  margin:40px auto;
+  padding:20px;
+  border-radius:14px;
+  background:#0b0f19;
+  border:1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+  text-align:center;
+">
+
+### 💬 MERN Chat Application
+
+<img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg" width="600" style="border-radius:10px;"/>
+
+<br/><br/>
+
+**Real-time messaging platform built with MERN + Socket.io**
+
+✔ JWT Authentication  
+✔ Real-time communication  
+✔ Scalable backend design  
+✔ Clean UI architecture  
+
+<br/>
+
+<a href="https://github.com/dev-himanshu-sharma/chatapp">
+  <img src="https://img.shields.io/badge/View%20Code-0D6EFD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,vscode" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 SYSTEM MODULES
+## 🌐 Contact
 
-<div style="display:flex; gap:15px; justify-content:center; flex-wrap:wrap;">
-
-<!-- FRONTEND -->
-<div style="
-  width:260px;
-  padding:20px;
-  border-radius:12px;
-  background: rgba(0,255,255,0.05);
-  border:1px solid #00f7ff;
-  box-shadow:0 0 15px #00f7ff;
-  text-align:center;
-  color:white;
-">
-<h3>🎨 FRONTEND</h3>
-HTML • CSS • React • JS
-</div>
-
-<!-- BACKEND -->
-<div style="
-  width:260px;
-  padding:20px;
-  border-radius:12px;
-  background: rgba(255,0,255,0.05);
-  border:1px solid #ff00ff;
-  box-shadow:0 0 15px #ff00ff;
-  text-align:center;
-  color:white;
-">
-<h3>⚙️ BACKEND</h3>
-Node.js • Express • APIs
-</div>
-
-<!-- DATABASE -->
-<div style="
-  width:260px;
-  padding:20px;
-  border-radius:12px;
-  background: rgba(0,255,128,0.05);
-  border:1px solid #00ff88;
-  box-shadow:0 0 15px #00ff88;
-  text-align:center;
-  color:white;
-">
-<h3>🗄️ DATABASE</h3>
-MongoDB • MySQL
-</div>
-
-</div>
-
----
-
-## 💬 PROJECT: CHAT SYSTEM
-
-<div style="
-  margin:30px auto;
-  padding:20px;
-  width:90%;
-  border-radius:15px;
-  border:1px solid #00f7ff;
-  box-shadow:0 0 25px #00f7ff;
-  background: rgba(0,0,0,0.4);
-  text-align:center;
-">
-
-### ⚡ REAL-TIME MERN CHAT
-
-<img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg" width="600"/>
-
-🔐 Secure JWT Auth  
-💬 Socket.io Live Messaging  
-👥 Multi-Room Chat  
-⚡ Scalable Backend Engine  
-
-</div>
-
----
-
-## 📊 SYSTEM STATS
-
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight" />
-
-</p>
-
----
-
-## 🌐 NETWORK ACCESS
-
-<p align="center">
+<div align="center">
 
 <a href="mailto:hs764664@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Email-0D6EFD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dev-himanshu-sharma">
-  <img src="https://img.shields.io/badge/GITHUB-ff00ff?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 🧠 FINAL MESSAGE
-
-<p align="center" style="color:#00f7ff;">
-SYSTEM DESIGN: ACTIVE ⚡  
-BUILD MODE: ENABLED 🚀  
-STATUS: CYBER DEVELOPER ONLINE
+<p align="center" style="color:#6b7280; margin-top:30px;">
+  Built with focus • Clean architecture • Continuous learning
 </p>

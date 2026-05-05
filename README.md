@@ -21,27 +21,35 @@
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td align="center"> <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript </td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML </td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS </td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React </td>
-</tr>
+### 🎨 Frontend
 
-<tr>
-<td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js </td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express </td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB </td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL </td>
-</tr>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react" />
+</p>
 
-<tr>
-<td align="center"> <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git </td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman </td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code </td>
-</tr>
-</table>
+<br/>
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql" />
+</p>
+
+<br/>
+
+### 🧰 Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode" />
+</p>
 
 ---
 

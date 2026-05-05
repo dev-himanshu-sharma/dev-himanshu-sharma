@@ -10,12 +10,33 @@
 
 ## 🌟 About Me
 
+<table align="center">
+<tr>
+<td width="700">
+
+<p align="center">
+  <b>Full Stack Developer focused on building scalable and production-ready web applications.</b>
+</p>
+
+<br/>
+
 <p align="center">
 💻 Building real-world full-stack applications <br/>
-🚀 Working on Resume Ranking System <br/>
-🌱 Learning Backend + System Design <br/>
-📫 Email: hs764664@gmail.com
+🚀 Currently developing a <b>Resume Ranking System</b> <br/>
+🌱 Exploring <b>Backend Engineering</b> & <b>System Design</b> <br/>
+📫 <b>Email:</b> hs764664@gmail.com
 </p>
+
+<br/>
+
+<p align="center">
+  <i>"Turning ideas into scalable systems."</i>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 ## 🛠️ Tech Stack

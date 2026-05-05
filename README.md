@@ -24,12 +24,12 @@
 
 ## About
 
-I build **scalable, production-ready web applications** with a focus on backend architecture and performance.
+I build **scalable, production-ready web applications** with a strong focus on backend systems and performance.
 
 * 🎓 Final Year Computer Science Student
-* ⚙️ Specialized in MERN Stack
-* 🚀 Currently building a Resume Ranking System
-* 🧠 Learning System Design & Backend Scaling
+* ⚙️ MERN Stack Specialist
+* 🚀 Building real-world products
+* 🧠 Learning System Design & Scaling
 
 ---
 
@@ -41,31 +41,36 @@ I build **scalable, production-ready web applications** with a focus on backend 
 
 ---
 
-## Projects (Proof of Work)
+## 🚀 Featured Projects
 
-### 🚀 Resume Ranking System
+### 🔐 MERN Authentication System
 
-* Designed a scoring engine to rank resumes based on relevance
-* Implemented filtering logic for recruiters
-* Built REST APIs and optimized query performance
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Auth+System+Preview" />
+</p>
 
----
+* JWT Authentication + Cookies
+* Protected Routes & Role-based Access
+* Secure Backend with Express
 
-### 📦 Full Stack Applications
-
-* Authentication (JWT + Cookies)
-* CRUD operations with clean API structure
-* MongoDB schema design & optimization
+👉 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
-### 🎨 Frontend Systems
+### 💬 MERN Chat Application
 
-* Component-based architecture using React
-* Responsive UI with Tailwind
-* Focus on performance & UX
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Chat+App+Preview" />
+</p>
+
+* Real-time messaging (Socket.io)
+* User authentication & chat rooms
+* Scalable backend architecture
+
+👉 [Live Demo](#) | [GitHub Repo](#)
 
 ---
+
 
 ## GitHub Analytics
 
@@ -95,9 +100,9 @@ Backend Systems | API Design | Database Optimization | Scalable Architecture
 
 ## What I Care About
 
-* Writing clean, maintainable code
-* Building real-world impactful projects
-* Understanding systems beyond just coding
+* Clean, maintainable code
+* Real-world problem solving
+* Thinking beyond CRUD
 
 ---
 

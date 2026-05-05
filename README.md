@@ -18,38 +18,50 @@
 </p>
 
 ---
-
 ## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="300">
 
 ### 🎨 Frontend
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react" />
-</p>
-
 <br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/><br/>
+
+HTML • CSS • JavaScript • React
+
+</td>
+
+<td align="center" width="300">
 
 ### ⚙️ Backend
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql" />
-</p>
-
 <br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/><br/>
+
+Node.js • Express • MongoDB • MySQL
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 
 ### 🧰 Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode" />
-</p>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,postman,vscode" /><br/><br/>
+
+Git • Postman • VS Code
+
+</td>
+</tr>
+</table>
+
 
 ---
 

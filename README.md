@@ -123,6 +123,7 @@ Git • Postman • VS Code
 
 ---
 
+
 ## 💎 Engineering Overview
 
 <p align="center">
@@ -148,51 +149,45 @@ Git • Postman • VS Code
 
 ---
 
-## 🛠 Evolution & Contributions
+## 💎 Engineering Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-himanshu-sharma&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26&color=7aa2f7" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Architect-1a1b26?style=for-the-badge&logo=probot&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/Open_Source-1a1b26?style=for-the-badge&logo=git&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/Full_Stack-1a1b26?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Most%20Used%20Languages-111?style=for-the-badge&logo=github" />
+  <b>Consistency. Systems. Growth.</b>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu-sharma&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight&hide_border=true&background=1a1b26" width="80%" />
 </p>
+
+<br/>
 
 ---
 
-## 🌐 Portfolio
+## 🛠 Evolution & Contributions
 
 <p align="center">
-  <a href="https://checkmygit.com/dev-himanshu-sharma">
-    <img src="https://img.shields.io/badge/View%20Portfolio-111?style=for-the-badge&logo=vercel" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-himanshu-sharma&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26&color=7aa2f7" width="90%" />
 </p>
+
+<br/>
+
+<p align="center">
+  <i>Building scalable systems • Writing clean code • Growing consistently</i>
+</p>
+
+
+## 🌐 Portfolio
+
+👉 https://checkmygit.com/dev-himanshu-sharma
 
 ---
 
 ## 🎯 Hobbies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cricket-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coding-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Singing-000?style=for-the-badge" />
+🏏 Cricket | 💻 Coding | 🎤 Singing
 </p>
 
 ---
@@ -200,19 +195,20 @@ Git • Postman • VS Code
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/purushottam-kr-tiwari">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
+  <!-- <a href="https://www.linkedin.com/in/purushottam-kr-tiwari"> -->
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:hs764664@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
 ---
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20by-Himanshu%20Sharma-000?style=for-the-badge" />
 </p>
 
 
-⭐️ From Himanshu Sharma 

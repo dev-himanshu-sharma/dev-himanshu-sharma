@@ -1,53 +1,100 @@
----
+<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 
-## About
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Engineer;Problem+Solver" />
+</p>
 
-I build **scalable, production-ready web applications** with a strong focus on backend systems and performance.
-
-* 🎓 Final Year Computer Science Student
-* ⚙️ MERN Stack Specialist
-* 🚀 Building real-world products
-* 🧠 Learning System Design & Scaling
+<h3 align="center">🚀 MERN Stack Developer | Final Year CSE Student</h3>
 
 ---
 
-## Tech Stack
+## 🌟 About Me
+
+<p align="center">
+💻 Building real-world full-stack applications <br/>
+🚀 Working on Resume Ranking System <br/>
+🌱 Learning Backend + System Design <br/>
+📫 Email: hs764664@gmail.com
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,git,postman,vscode" />
+</p>
+
+---
+
+## 🚀 Projects
 
 ### 💬 MERN Chat Application
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/assets/auth.jpeg" width="800"/>
+</p>
 
 * Real-time messaging (Socket.io)
 * User authentication & chat rooms
 * Scalable backend architecture
 
-👉 [GitHub Repo](https://github.com/dev-himanshu-sharma/mern-chat)
+👉 [GitHub Repo](https://github.com/dev-himanshu-sharma/chatapp)
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Dashboard
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
 ---
 
-## Contribution Graph
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-himanshu-sharma&theme=react-dark" />
 
 ---
 
-## Engineering Focus
+## 💻 Top Languages
 
-```text
-Backend Systems | API Design | Database Optimization | Scalable Architecture
-```
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-himanshu-sharma&layout=compact&theme=tokyonight" />
 
 ---
 
-## What I Care About
+## 🌐 Portfolio
 
-* Clean, maintainable code
-* Real-world problem solving
-* Thinking beyond CRUD
+👉 https://checkmygit.com/dev-himanshu-sharma
 
 ---
+
+## 🎯 Hobbies
+
+<p align="center">
+🏏 Cricket | 💻 Coding | 🎤 Singing
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/purushottam-kr-tiwari">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:hs764664@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+⭐️ From Himanshu Sharma

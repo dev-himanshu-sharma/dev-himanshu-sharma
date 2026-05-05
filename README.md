@@ -121,30 +121,18 @@ Git • Postman • VS Code
 </tr>
 </table>
 
-
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Analytics-111?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub%20Insights-111?style=for-the-badge&logo=github" />
 </p>
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="400">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-
-<td align="center" width="400">
-
-<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+</p>
 
 <br/>
 
@@ -152,8 +140,8 @@ Git • Postman • VS Code
   <img src="https://img.shields.io/badge/Consistency%20%7C%20Growth%20%7C%20Code-000?style=for-the-badge" />
 </p>
 
-
 ---
+
 
 ## 📈 Activity Graph
 

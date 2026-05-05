@@ -59,15 +59,27 @@ HTML • CSS • JavaScript • React
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
 
-Node.js • Express • MongoDB • MySQL
+Node.js • Express
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2" align="center">
+<td align="center" width="300">
+
+### 🗄️ Database
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/><br/>
+
+MongoDB • MySQL
+
+</td>
+
+<td align="center" width="300">
 
 ### 🧰 Tools
 
@@ -81,8 +93,6 @@ Git • Postman • VS Code
 </tr>
 </table>
 
-
----
 
 
 ## 🐍 Contribution Snake

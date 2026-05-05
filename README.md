@@ -32,7 +32,7 @@
 ### 💬 MERN Chat Application
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/assets/auth.jpeg" width="800"/>
+  <img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg" width="800"/>
 </p>
 
 * Real-time messaging (Socket.io)

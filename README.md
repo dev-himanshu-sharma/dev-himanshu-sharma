@@ -67,19 +67,41 @@ Git • Postman • VS Code
 
 ## 🚀 Projects
 
+<table align="center">
+<tr>
+<td width="800">
+
 ### 💬 MERN Chat Application
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg" width="800"/>
+  <img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg" width="700"/>
 </p>
 
-* Real-time messaging (Socket.io)
-* User authentication & chat rooms
-* Scalable backend architecture
-
-👉 [GitHub Repo](https://github.com/dev-himanshu-sharma/chatapp)
+<p align="center">
+  <b>Real-time Chat App built with MERN Stack</b>
+</p>
 
 ---
+
+### ⚡ Key Features
+
+* 🔐 Secure Authentication (JWT + Cookies)
+* 💬 Real-time Messaging using Socket.io
+* 👥 User-based Chat Rooms
+* ⚙️ Scalable Backend Architecture
+
+---
+
+<p align="center">
+  <a href="https://github.com/dev-himanshu-sharma/chatapp">
+    <img src="https://img.shields.io/badge/View%20Repository-111?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ## 📊 GitHub Dashboard
 

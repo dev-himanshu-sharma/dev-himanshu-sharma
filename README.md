@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
+ <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Engineer;Backend+Enthusiast;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Engineer;Problem+Solver" />
 </p>
 
 <h3 align="center">🚀 MERN Stack Developer | Final Year CSE Student</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-himanshu-sharma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
-</p>
 
 ---
 
@@ -16,31 +12,129 @@
 
 <table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="700" align="center">
 
-### 👨‍💻 Developer Profile
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-111?style=for-the-badge"/>
 
-- 💻 Building real-world full-stack applications  
-- 🚀 Currently developing a **Resume Ranking System**  
-- 🌱 Exploring **Backend Engineering** & **System Design**  
-- ⚡ Passionate about scalable architectures & clean UI  
-- 📫 Reach me at: **hs764664@gmail.com**
+<br/><br/>
+
+💻 Building real-world full-stack applications <br/>
+🚀 Currently developing a <b>Resume Ranking System</b> <br/>
+🌱 Exploring <b>Backend Engineering</b> & <b>System Design</b> <br/>
+📫 <b>Email:</b> [hs764664@gmail.com](mailto:hs764664@gmail.com)
 
 <br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MERN%20STACK-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/MERN-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-000?style=for-the-badge"/>
 
-> *"Turning ideas into scalable systems."*
+<br/><br/>
+
+<i>"Turning ideas into scalable systems."</i>
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+### 🎨 Frontend
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/><br/>
+
+HTML • CSS • JavaScript • React
 
 </td>
 
-<td width="45%" align="center">
+<td align="center" width="300">
 
-<img src="https://raw.githubusercontent.com/dev-himanshu-sharma/mern-chatapp/main/client/src/assets/chatui.png" width="100%" style="border-radius:12px;" />
+### ⚙️ Backend
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
+
+Node.js • Express
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
+
+### 🗄️ Database
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/><br/>
+
+MongoDB • MySQL
+
+</td>
+
+<td align="center" width="300">
+
+### 🧰 Tools
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,postman,vscode" /><br/><br/>
+
+Git • Postman • VS Code
+
+</td>
+</tr>
+</table>
+
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🚀 Projects
+
+<table align="center">
+<tr>
+<td width="800">
+
+### 💬 MERN Chat Application
+
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg](https://github.com/dev-himanshu-sharma/mern-chatapp/blob/main/client/src/assets/chatui.png)" width="700"/>
+</p>
+
+<p align="center">
+  <b>Real-time Chat App built with MERN Stack</b>
+</p>
+
+---
+
+### ⚡ Key Features
+
+* 🔐 Secure Authentication (JWT + Cookies)
+* 💬 Real-time Messaging using Socket.io
+* 👥 User-based Chat Rooms
+* ⚙️ Scalable Backend Architecture
+
+---
+
+<p align="center">
+  <a href="https://github.com/dev-himanshu-sharma/chatapp">
+    <img src="https://img.shields.io/badge/View%20Repository-111?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -48,77 +142,63 @@
 
 ---
 
-# 🛠 Tech Stack
 
-<div align="center">
+## 📊 GitHub Dashboard
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
-<br/><br/>
+--- make it more premium
+## 🛠 Evolution & Contributions
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-himanshu-sharma&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26&color=7aa2f7" width="90%" />
+</p>
 
-<br/><br/>
+<br/>
 
-### 🗄 Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="center">
+  <i>Building scalable systems • Writing clean code • Growing consistently</i>
+</p>
 
-<br/><br/>
 
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,firebase" />
+## 🌐 Portfolio
 
-</div>
-
----
-
-# 🚀 Featured Project
-
-<div align="center">
-
-## 💬 MERN Chat Application
-
-<img src="https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg" width="90%" />
-
-<br/><br/>
-
-### ⚡ Real-time Chat Platform built with MERN Stack
-
-</div>
+👉 https://checkmygit.com/dev-himanshu-sharma
 
 ---
 
-## ✨ Key Features
+## 🎯 Hobbies
 
-```diff
-+ 🔐 JWT Authentication & Secure Cookies
-+ 💬 Real-time Messaging with Socket.io
-+ 👥 User-based Private Chats
-+ ⚡ Fast & Responsive UI
-+ 🗂 Scalable Backend Architecture
-+ ☁️ MongoDB Database Integration
+<p align="center">
+🏏 Cricket | 💻 Coding | 🎤 Singing
+</p>
 
-<div align="center"> <a href="https://github.com/dev-himanshu-sharma/chatapp"> <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight&hide_border=true&background=0D1117"/> </div> <br/> <div align="center"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-himanshu-sharma&theme=tokyo-night&hide_border=true&area=true"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
-🌐 Portfolio
-<div align="center">
-🔗 Visit My Portfolio
-<a href="https://checkmygit.com/dev-himanshu-sharma"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </div>
-🎯 Hobbies & Interests
-<div align="center">
+---
 
-🏏 Cricket & Sports
-💻 Full Stack Development
-🎵 Singing & Music
+## 🌐 Connect With Me
 
-</div>
-🌐 Connect With Me
-<div align="center"> <a href="mailto:hs764664@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/dev-himanshu-sharma"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-⚡ Made with passion by Himanshu Sharma ⚡
-</div> ```
+<p align="center">
+  <!-- <a href="https://www.linkedin.com/in/purushottam-kr-tiwari"> -->
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:hs764664@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20by-Himanshu%20Sharma-000?style=for-the-badge" />
+</p>

@@ -112,7 +112,7 @@ Git • Postman • VS Code
 ### 💬 MERN Chat Application
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/dev-himanshu-sharma/chatapp/main/client/src/assets/auth.jpeg](https://github.com/dev-himanshu-sharma/mern-chatapp/blob/main/client/src/assets/chatui.png)" width="700"/>
+  <img src="https://github.com/dev-himanshu-sharma/mern-chatapp/blob/main/client/src/assets/chatui.png" width="700"/>
 </p>
 
 <p align="center">

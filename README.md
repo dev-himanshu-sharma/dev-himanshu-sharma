@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-[Future Startup] (https://devforge-weld.vercel.app/)
+[Future Startup](https://devforge-weld.vercel.app/)
 
 <table align="center">
 <tr>

@@ -105,7 +105,72 @@ Git • Postman • VS Code
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+<table align="center">
+<tr>
+
+<td width="400">
+
+### 🚀 Future Startup
+
+<p align="center">
+  <a href="https://devforge-weld.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+#### 💡 Overview
+
+A startup discovery and innovation platform designed to showcase ideas, products, and future business opportunities.
+
+#### ✨ Features
+
+* Modern Responsive UI
+* Startup Showcase Platform
+* Dynamic Content Rendering
+* Optimized Performance
+* MERN Architecture
+
+#### 🛠 Tech Stack
+
+React • Node.js • Express • MongoDB
+
+</td>
+
+<td width="400">
+
+### 📊 Attendly
+
+<p align="center">
+  <a href="https://attendlyapp-evwl4whra-himanshus-projects-e22cd52a.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+#### 💡 Overview
+
+A full-stack Attendance Management System with role-based authentication and attendance tracking.
+
+#### ✨ Features
+
+* JWT Authentication
+* Employee Check-In / Check-Out
+* Admin Dashboard
+* Attendance Analytics
+* Attendance Shortage Detection
+* Dark / Light Mode
+
+#### 🛠 Tech Stack
+
+React • Node.js • Express • MongoDB • Tailwind CSS
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <table align="center">
 <tr>
@@ -118,17 +183,18 @@ Git • Postman • VS Code
 </p>
 
 <p align="center">
-  <b>Real-time Chat App built with MERN Stack</b>
+  <b>Real-time Chat Application built with MERN Stack</b>
 </p>
 
 ---
 
 ### ⚡ Key Features
 
-* 🔐 Secure Authentication (JWT + Cookies)
-* 💬 Real-time Messaging using Socket.io
-* 👥 User-based Chat Rooms
-* ⚙️ Scalable Backend Architecture
+* 🔐 JWT Authentication
+* 💬 Real-time Messaging
+* ⚡ Socket.io Integration
+* 👥 Multi-user Communication
+* 🚀 Scalable Architecture
 
 ---
 
@@ -143,6 +209,21 @@ Git • Postman • VS Code
 </table>
 
 ---
+
+## 🏆 Project Highlights
+
+| Project           | Type                         | Status |
+| ----------------- | ---------------------------- | ------ |
+| 🚀 Future Startup | Startup Platform             | ✅ Live |
+| 📊 Attendly       | Attendance Management System | ✅ Live |
+| 💬 MERN Chat App  | Real-time Communication      | ✅ Live |
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-himanshu-sharma&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</p>
+
 
 
 ## 📊 GitHub Dashboard

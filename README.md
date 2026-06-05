@@ -210,13 +210,95 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 
 ---
 
-## 🏆 Project Highlights
+## 🚀 Featured Projects
 
-| Project           | Type                         | Status |
-| ----------------- | ---------------------------- | ------ |
-| 🚀 Future Startup | Startup Platform             | ✅ Live |
-| 📊 Attendly       | Attendance Management System | ✅ Live |
-| 💬 MERN Chat App  | Real-time Communication      | ✅ Live |
+### 📊 Attendly — Attendance Management System
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-himanshu-sharma/attendly/main/frontend/src/components/attendance.jpeg" width="850"/>
+</p>
+
+<p align="center">
+  <b>Full-Stack Employee Attendance Management System</b>
+</p>
+
+#### ✨ Features
+
+* JWT Authentication
+* Role-Based Access Control
+* Employee Check-In / Check-Out
+* Attendance History
+* Attendance Percentage Calculator
+* Attendance Shortage Detection (<75%)
+* Admin Dashboard
+* Dark / Light Mode
+
+#### 🛠 Tech Stack
+
+React • Tailwind CSS • Node.js • Express.js • MongoDB
+
+<p align="center">
+  <a href="https://attendlyapp-evwl4whra-himanshus-projects-e22cd52a.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
+  </a>
+
+  <a href="https://github.com/dev-himanshu-sharma/attendly">
+    <img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 🚀 Future Startup
+
+<p align="center">
+  <a href="https://devforge-weld.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+#### ✨ Features
+
+* Startup Discovery Platform
+* Responsive Design
+* Dynamic Content Rendering
+* Modern UI/UX
+* MERN Architecture
+
+#### 🛠 Tech Stack
+
+React • Node.js • Express.js • MongoDB
+
+---
+
+### 💬 MERN Chat Application
+
+<p align="center">
+  <img src="https://github.com/dev-himanshu-sharma/mern-chatapp/blob/main/client/src/assets/chatui.png" width="850"/>
+</p>
+
+<p align="center">
+  <b>Real-Time Chat Application built using MERN + Socket.io</b>
+</p>
+
+#### ✨ Features
+
+* JWT Authentication
+* Real-Time Messaging
+* Socket.io Integration
+* User-Based Conversations
+* Scalable Backend Architecture
+
+#### 🛠 Tech Stack
+
+React • Node.js • Express.js • MongoDB • Socket.io
+
+<p align="center">
+  <a href="https://github.com/dev-himanshu-sharma/chatapp">
+    <img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 
 ---
 

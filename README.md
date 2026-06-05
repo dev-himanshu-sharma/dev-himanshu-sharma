@@ -176,27 +176,7 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 <tr>
 <td width="800">
 
-### 💬 MERN Chat Application
 
-<p align="center">
-  <img src="https://github.com/dev-himanshu-sharma/mern-chatapp/blob/main/client/src/assets/chatui.png" width="700"/>
-</p>
-
-<p align="center">
-  <b>Real-time Chat Application built with MERN Stack</b>
-</p>
-
----
-
-### ⚡ Key Features
-
-* 🔐 JWT Authentication
-* 💬 Real-time Messaging
-* ⚡ Socket.io Integration
-* 👥 Multi-user Communication
-* 🚀 Scalable Architecture
-
----
 
 <p align="center">
   <a href="https://github.com/dev-himanshu-sharma/chatapp">
